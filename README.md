@@ -10,9 +10,9 @@ The storyboard shows a simple idea of all of the usecases that are added to the 
 ## App showcase 
 
 
-*  	***Homepage*** 
+*  	**Homepage** 
 ![home](https://user-images.githubusercontent.com/64828238/148617706-4332c4d3-24b7-4632-8178-2be5bcdbfb1e.png)
-* 	***Center of Gravity***
+* 	**Center of Gravity**
 ![cfg](https://user-images.githubusercontent.com/64828238/148617725-bea5060f-98c4-48a8-9228-a63ca6deb8b6.png)
 
 
